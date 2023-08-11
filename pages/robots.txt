@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /public/assets/
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://www.idrisbookbank.com/sitemap.xml
