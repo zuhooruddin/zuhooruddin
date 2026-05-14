@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-zuhooruddin055-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/zuhoor-uddin-916b171ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zuhoor_Uddin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Based_in-Islamabad,_Pakistan-1e293b?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=zuhooruddin055&style=flat-square&color=0ea5e9&label=Profile+Views"/>
@@ -20,7 +24,7 @@
 
 ## About
 
-I build production-grade web applications with clean architecture, secure APIs, and optimized performance. My work spans full-stack MERN applications, AI-powered platforms, eCommerce systems, and blockchain solutions — deployed across companies in Pakistan and Bahrain.
+I build production-grade web applications with clean architecture, secure APIs, and optimized performance. My work spans full-stack MERN applications, AI-powered platforms, eCommerce systems, and blockchain solutions — delivered for companies across **Pakistan, USA, UK, and Bahrain**.
 
 - Integrated **JWT authentication + RBAC** achieving zero unauthorized access incidents across production systems
 - Cut database latency through **MongoDB indexing & query optimization** on high-traffic applications
@@ -61,16 +65,22 @@ I build production-grade web applications with clean architecture, secure APIs, 
 
 ## Work Experience
 
-**Full Stack MERN Developer** — Sharplogicians · Pakistan *(Current)*
-> Delivered 5+ full-stack MERN applications. Implemented JWT + RBAC security, optimized MongoDB queries, and enhanced React performance using memoization.
+**Full Stack MERN Developer** — AppinSnap · Pakistan *(Current)*
+> Building scalable full-stack MERN applications with optimized APIs, secure authentication, and responsive UIs. Driving performance improvements across production systems.
 
-**Front End Developer** — Precise Technology · Pakistan *(Current)*
-> Applied UX/UI design principles using Tailwind CSS. Integrated secure payment gateways and managed application state with Redux.
+**Full Stack Developer** — First Epic · USA *(Previous)*
+> Delivered full-stack solutions for US-based clients. Worked across the complete product lifecycle from architecture to deployment.
 
-**Front End Developer** — Orienta International · Bahrain *(Current)*
-> Built React.js & Next.js web apps. Developed Django RESTful APIs and integrated third-party services across cross-functional teams.
+**Full Stack MERN Developer** — Sharplogicians · Pakistan *(Previous)*
+> Implemented JWT + RBAC security achieving zero unauthorized access incidents. Optimized MongoDB queries and enhanced React component performance via memoization.
 
-**Full Stack Developer** — Inara Technologies · Pakistan *(Current)*
+**Front End Developer** — Precise Technology · Pakistan *(Previous)*
+> Applied UX/UI principles using Tailwind CSS. Integrated secure payment gateways and managed application state with Redux.
+
+**Front End Developer** — Orienta International · Bahrain *(Previous)*
+> Built React.js & Next.js web apps with Django RESTful APIs. Integrated third-party services across cross-functional teams.
+
+**Full Stack Developer** — Inara Technologies · Pakistan *(Previous)*
 > Built and maintained Flutter, Next.js & Django CMS applications including Idrisbook, Hunars, UET Hostel Management, and Glory-1.
 
 ---
@@ -84,6 +94,8 @@ I build production-grade web applications with clean architecture, secure APIs, 
 | 🪙 **Braav** | Web3 · Blockchain | Decentralized finance platform | [braav.co](https://braav.co) |
 | 🔄 **Braav AllCoin** | Web3 · Blockchain | Crypto exchange & wallet | [allcoin.braav.co](https://allcoin.braav.co) |
 | 🚗 **Car Advisers** | React · Node.js | Automotive advisory platform | [caradvisers.com](https://caradvisers.com) |
+| ✈️ **Pilot Courier** | MERN | Courier & logistics management system | — |
+| 🏢 **ITS** | Next.js · Node.js | Enterprise IT solutions platform | [its.co.uk](https://its.co.uk) |
 | 💊 **ATG Pharma** | MERN | Pharmaceutical management system | [sharplogicians.com](https://sharplogicians.com) |
 | 🌸 **Nova Bloom** | Next.js | Modern eCommerce storefront | — |
 | 💄 **Aldana Beauty** | MERN | Beauty eCommerce platform | — |
@@ -104,12 +116,9 @@ I build production-grade web applications with clean architecture, secure APIs, 
 
 ---
 
-## Education
-
-**B.Sc. Software Engineering** — Riphah International University, Pakistan
-
----
-
 <p align="center">
-  <i>Open to freelance projects and collaborations. Reach out at <a href="mailto:zuhooruddin055@gmail.com">zuhooruddin055@gmail.com</a></i>
+  <i>Open to freelance projects and collaborations &nbsp;·&nbsp;
+  <a href="mailto:zuhooruddin055@gmail.com">zuhooruddin055@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zuhoor-uddin-916b171ab/">LinkedIn</a>
+  </i>
 </p>
