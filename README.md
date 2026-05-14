@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zuhooruddin055@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-zuhooruddin055-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:zuhooruddin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-zuhooruddin-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/zuhoor-uddin-916b171ab/">
@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based_in-Islamabad,_Pakistan-1e293b?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=zuhooruddin055&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zuhooruddin&style=flat-square&color=0ea5e9&label=Profile+Views"/>
 </p>
 
 <br/>
@@ -105,20 +105,20 @@ I build production-grade web applications with clean architecture, secure APIs, 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zuhooruddin055&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zuhooruddin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhooruddin055&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhooruddin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zuhooruddin055&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569"/>
+  <img src="https://streak-stats.demolab.com?user=zuhooruddin&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569"/>
 </p>
 
 ---
 
 <p align="center">
   <i>Open to freelance projects and collaborations &nbsp;·&nbsp;
-  <a href="mailto:zuhooruddin055@gmail.com">zuhooruddin055@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:zuhooruddin@gmail.com">zuhooruddin@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/zuhoor-uddin-916b171ab/">LinkedIn</a>
   </i>
 </p>
