@@ -1,6 +1,6 @@
 <h1 align="center">Zuhoor Uddin</h1>
  
-<p align="center">
+<p align="center"> 
   <b>Full Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; AI Solutions &nbsp;·&nbsp; Web3 & Blockchain</b>
 </p>  
 <p align="center">
