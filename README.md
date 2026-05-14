@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; AI Solutions &nbsp;·&nbsp; Web3 & Blockchain</b>
-</p>
-
+</p>  
 <p align="center">
   <a href="mailto:zuhooruddin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zuhooruddin-D14836?style=flat-square&logo=gmail&logoColor=white"/>
