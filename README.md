@@ -67,7 +67,7 @@ I build production-grade web applications with clean architecture, secure APIs, 
 **Full Stack MERN Developer** — AppinSnap · Pakistan *(Current)*
 > Building scalable full-stack MERN applications with optimized APIs, secure authentication, and responsive UIs. Driving performance improvements across production systems.
 
-**Full Stack Developer** — First Epic · USA *(Previous)*
+**Full Stack Developer** — Game Nock *(Previous)*
 > Delivered full-stack solutions for US-based clients. Worked across the complete product lifecycle from architecture to deployment.
 
 **Full Stack MERN Developer** — Sharplogicians · Pakistan *(Previous)*
