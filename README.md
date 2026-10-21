@@ -116,7 +116,7 @@ I build production-grade web applications with clean architecture, secure APIs, 
 
 <p align="center">
   <i>Open to freelance projects and collaborations &nbsp;·&nbsp;
-  <a href="mailto:zuhooruddin@gmail.com">zuhooruddin@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:zuhooruddin@gmail.com">zuhooruddin055@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/zuhoor-uddin-916b171ab/">LinkedIn</a>
   </i>
 </p>
