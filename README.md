@@ -91,8 +91,6 @@ I build production-grade web applications with clean architecture, secure APIs, 
 |---------|-------|-------------|------|
 | 📚 **Idris Book Bank** | MERN | Community book banking system | [idrisbookbank.com](https://idrisbookbank.com) |
 | 🎨 **Hunars** | Next.js · Django | Skills & craft learning platform | [hunars.com](https://hunars.com) |
-| 🪙 **Braav** | Web3 · Blockchain | Decentralized finance platform | [braav.co](https://braav.co) |
-| 🔄 **Braav AllCoin** | Web3 · Blockchain | Crypto exchange & wallet | [allcoin.braav.co](https://allcoin.braav.co) |
 | 🚗 **Car Advisers** | React · Node.js | Automotive advisory platform | [caradvisers.com](https://caradvisers.com) |
 | ✈️ **Pilot Courier** | MERN | Courier & logistics management system | — |
 | 🏢 **ITS** | Next.js · Node.js | Enterprise IT solutions platform | [its.co.uk](https://its.co.uk) |
