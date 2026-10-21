@@ -1,14 +1,9 @@
 
-
-# Zuhoor Uddin
-
-### Full Stack AI Developer
-
-**MERN · Next.js · LLM & AI Solutions · Web3**
-
-Building secure, fast, production-grade web apps and AI-powered products.
-
-<br/>
+<h1 align="center">Zuhoor Uddin</h1>
+ 
+<p align="center"> 
+  <b>Full Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; AI Solutions &nbsp;·&nbsp; Web3 & Blockchain</b>
+</p>  
 <p align="center">
   <a href="mailto:zuhooruddin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-zuhooruddin-D14836?style=flat-square&logo=gmail&logoColor=white"/>
